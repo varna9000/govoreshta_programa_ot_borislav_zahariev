@@ -30,7 +30,7 @@
 Не са необходими допълнителни библиотеки — само Python 3:
 
 ```bash
-git clone https://github.com/<вашето-име>/govor.git
+git clone https://github.com/varna9000/govoreshta_programa_ot_borislav_zahariev.git
 cd govor
 python3 govor.py --demo
 ```
